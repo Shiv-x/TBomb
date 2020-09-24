@@ -1,6 +1,6 @@
 <h1 align="center">TBomb v1.7b</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
-
+![TBomb](https://telegra.ph/file/513ae0817900d3c694ba8.jpg)
 ## Note:
 
 **Due misusing of TBomb, several API's died.**  
